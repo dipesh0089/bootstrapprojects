@@ -1,0 +1,94 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.row-bg
+{
+    background-color: #a8d741;
+}
+.p-text-color
+{
+    color: #696969;
+}
+.pa
+{
+    padding: 0 16px 16px 16px;
+}
+.mbr
+{
+    position: relative;
+}
+.icon-wrap 
+{
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+.text-c
+{
+    color: #a8d741;
+    font-size: 80px;
+}
+
+.back-color
+{
+    background-color: #eeeeee;
+}
+.img-s
+{
+    margin: auto;
+    width: 140px;
+    padding-bottom: 2rem;
+}
+.max-auto
+{
+    margin-right: auto;
+    margin-left: auto;
+}
+.form-control
+{
+    min-height: 48px;
+    padding: 9.6px 19.2px;
+}
+textarea 
+{
+    min-height: 160px;
+}
+.google-map
+{
+    height: 35rem;
+    
+}
+
+.start:hover 
+{
+    
+    transform: rotate( -2deg);
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, .30);
+    transition: 1s;
+}   
+.start1:hover 
+{
+    
+    transform: rotate( 2deg);
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, .30);
+    transition: 1s;
+}
+.start11:hover 
+{
+    background-color: #a8d741;
+    transform: rotate( 2deg);
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, .30);
+    transition: 1s;
+}
+.faa
+{
+    color: #a8d741;
+}
+.navbar-toggler-icon
+{
+
+}
